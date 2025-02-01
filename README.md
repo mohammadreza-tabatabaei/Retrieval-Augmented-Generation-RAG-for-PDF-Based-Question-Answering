@@ -1,4 +1,4 @@
-# Document Processing with Langchain and Hugging Face
+# Retrieval-Augmented-Generation-RAG-for-PDF-Based-Question-Answering
 
 This project demonstrates how to process PDF documents, split the text into smaller chunks, store the chunks in a vector database (Chroma), and perform Question-Answering (QA) tasks using Hugging Face models.
 
